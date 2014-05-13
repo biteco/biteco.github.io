@@ -1,0 +1,33 @@
+# biteco.github.io -*- mode: org; -*-
+* biteco
+
+** Business
+** Technology
+** Consulting
+
+* COMMENT Admin :noexport:
+** COMMENT Export
+#+TITLE:     biteco
+#+AUTHOR:    Gunter Liszewski
+#+EMAIL:     gunter.liszewski@gmail.com
+#+DATE:      2014-05-13 Tue
+#+DESCRIPTION: A Stage for Facilitating Business
+#+KEYWORDS: cloud output computer tablet infrastructure network communication service web print scan office open source
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:t \n:nil @:t ::t |:t ^:{} -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:overview toc:t ltoc:t mouse:underline buttons:0 path:j/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+** COMMENT Commands
+
+#+BEGIN_SRC elisp
+(w3-open-local "index.html")
+#+END_SRC
+
+#+RESULTS:
+: #<buffer  *url-file*>
+
