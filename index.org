@@ -22,6 +22,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
+#+OPTIONS:    html5-fancy:t
 ** COMMENT Commands
 
 #+BEGIN_SRC elisp
