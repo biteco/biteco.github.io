@@ -5,6 +5,7 @@
 ** Technology
 ** Consulting
 
+
 * COMMENT Admin :noexport:
 ** COMMENT Export
 #+TITLE:     biteco
@@ -22,7 +23,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-#+OPTIONS:    html5-fancy:t
+#+OPTIONS:    html5-fancy:t html:"out" exp-path:./out
 ** COMMENT Commands
 
 #+BEGIN_SRC elisp
