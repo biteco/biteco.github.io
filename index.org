@@ -22,7 +22,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-#+OPTIONS:    html5-fancy:t html:"out" exp-path:./out
+#+OPTIONS:    tml5-fancy:t html:"out" exp-path:./out
 ** COMMENT Commands
 
 #+BEGIN_SRC elisp
@@ -43,3 +43,24 @@
 #+BEGIN_SRC elisp
 (org-export-as-html 3)
 #+END_SRC
+
+#+RESULTS:
+: #<buffer index.html>
+
+*** Org Use
+    - Note taken on [2014-05-25 Sun 02:31] \\
+      another entry for the logbookc
+    - Note taken on [2014-05-25 Sun 02:27] \\
+      C-c C-z    put a stamped node into the LOGBOOK drawer
+
+ #+BEGIN_SRC elisp
+(setq org-agenda-custom-commands
+           '(("f" occur-tree "FIXME")))
+ #+END_SRC
+
+ #+RESULTS:
+ | f | occur-tree | FIXME |
+
+*** The logbook
+:LOGBOOK:
+:END:
