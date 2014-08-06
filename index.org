@@ -1,5 +1,5 @@
 # biteco.github.io -*- mode: org; -*-
-* biteco
+* Bteco Limited
 
 ** Business
 ** Technology
