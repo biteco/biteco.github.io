@@ -7,10 +7,9 @@
 
 * COMMENT Admin :noexport:
 ** COMMENT Export
-#+TITLE:     biteco
+#+TITLE:     Biteco Limited
 #+AUTHOR:    Gunter Liszewski
 #+EMAIL:     gunter.liszewski@gmail.com
-#+DATE:      2014-05-24 Sunday
 #+DESCRIPTION: A Stage for Facilitating Business
 #+KEYWORDS: cloud output computer tablet infrastructure network communication service web print scan office open source
 #+LANGUAGE:  en
