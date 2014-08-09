@@ -9,8 +9,8 @@
 ** COMMENT Export
 #+TITLE:     Biteco Limited
 #+AUTHOR:    Gunter Liszewski
-#+EMAIL:     gunter.liszewski@gmail.com
-#+DESCRIPTION: A Stage for Facilitating Business
+#+EMAIL:     Bteco.Limited@gmail.com
+#+DESCRIPTION: Bteco Limted, "Business Technology Consulting" since 2014, NI625894
 #+KEYWORDS: cloud output computer tablet infrastructure network communication service web print scan office open source
 #+LANGUAGE:  en
 #+OPTIONS:   H:3 num:nil toc:t \n:nil @:t ::t |:t ^:{} -:t f:t *:t <:t
