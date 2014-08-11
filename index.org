@@ -10,6 +10,7 @@
 #+TITLE:     Biteco Limited
 #+AUTHOR:    Gunter Liszewski
 #+EMAIL:     Bteco.Limited@gmail.com
+#+TEXT:      Bteco Limted, "Business Technology Consulting" since 2014, NI625894
 #+DESCRIPTION: Bteco Limted, "Business Technology Consulting" since 2014, NI625894
 #+KEYWORDS: cloud output computer tablet infrastructure network communication service web print scan office open source
 #+LANGUAGE:  en
@@ -21,7 +22,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
-#+OPTIONS:    tml5-fancy:t html:"out" exp-path:./out
+#+OPTIONS:    html5-fancy:t html:"out" exp-path:./out
 ** COMMENT Commands
 
 #+BEGIN_SRC elisp
