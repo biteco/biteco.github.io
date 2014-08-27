@@ -1,6 +1,6 @@
     html { font-family: Times, serif; font-size: 12pt; }
    h2 { background-color: #AFAFAF; }
-  .title  { text-align: center; background-color: #AFAFAF; }
+  .title  { text-align: center; background-color: #EE0256; }
   .todo   { color: red; }
   .done   { color: green; }
   .tag    { background-color: #add8e6; font-weight:normal }
@@ -12,7 +12,7 @@
   .center {margin-left:auto; margin-right:auto; text-align:center;}
   p.verse { margin-left: 3% }
   pre {
-	border: 1pt solid #AEBDCC;
+	border: 1pt solid #EE0256;
 	background-color: #F3F5F7;
 	padding: 5pt;
 	font-family: courier, monospace;
