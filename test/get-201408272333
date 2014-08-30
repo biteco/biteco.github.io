@@ -1,0 +1,3 @@
+GET http://www.bteco.ltd.uk/GC/
+User-Agent: lwp-request/6.03 libwww-perl/6.03
+
