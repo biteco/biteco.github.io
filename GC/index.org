@@ -23,7 +23,7 @@
 #+HTML_CONTAINER: div
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="s/style.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="s/style.css" />
 #+HTML_HEAD_EXTRA:
 #+HTML_MATHJAX:
 #+INFOJS_OPT: view:overview toc:nil ltoc:t mouse:underline buttons:0 path:j/org-info.js
