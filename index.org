@@ -7,7 +7,7 @@
 
 * COMMENT Admin :noexport:
 ** COMMENT Export
-#+TITLE:     Biteco Limited
+#+TITLE:     Bteco Limited
 #+AUTHOR:    Gunter Liszewski
 #+EMAIL:     Bteco.Limited@gmail.com
 #+TEXT:      Bteco Limted, "Business Technology Consulting" since 2014, NI625894
