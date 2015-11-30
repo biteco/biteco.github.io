@@ -1,0 +1,12 @@
+This is the CV of Mr. Gunter Liszewski.
+
+NOTE: This page, here, at address http://www.bteco.ltd.uk/people/Gunter.Liszewski/CV
+      is in the process of beig made...
+      
+NOTE: The approach, here, on this page is to talk about the work
+      of the author. The `format' is to be simple, TEXT. It is
+      aimed to enable pasting this content into other web applications.
+
+
+<!-- CV of Gunter Liszewski, Director, Bteco Limited -->
+
