@@ -15,7 +15,7 @@
 
 ** The People
 
-   - [[CV][A CV in a TEXT format (work in progress)]]
+   - [[./CV][A CV in a TEXT format (work in progress)]]
 
 * COMMENT Head
 
