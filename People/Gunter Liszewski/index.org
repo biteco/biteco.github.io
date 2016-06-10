@@ -14,7 +14,7 @@
 
 
 ** The People
-   - [[./_01 CV Gunter Liszewski.pdf][The CV in a PDF format (work in progress)]]
+   - [[http://bteco.altervista.org/p/_01 CV Gunter Liszewski.pdf][The CV in a PDF format (work in progress)]]
    - [[./CV][A CV in a TEXT format (work in progress)]]
    - [[http://glisze.blinkenshell.org/glisze/org-gtd/current-things.html#coderef-ppp][What' is on, now, with us, here]]
 * COMMENT Head
